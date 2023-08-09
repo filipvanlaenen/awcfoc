@@ -1,0 +1,43 @@
+---
+areaConfigurations:
+- areaCode: "nz"
+  csvConfiguration:
+    electoralListIds:
+    - "NZ001"
+    - "NZ002"
+    - "NZ003"
+    - "NZ004"
+    - "NZ005"
+    - "NZ006"
+    - "NZ007"
+    - "NZ008"
+    - "NZ009"
+    - "NZ010"
+    - "NZ011"
+    - "NZ012"
+    - "NZ013"
+    - "NZ014"
+    - "NZ015"
+    - "NZ016"
+    - "NZ014+NZ016"
+    - "NZ017"
+    - "NZ018"
+    - "NZ019"
+  elections:
+    national:
+      dates:
+        47: "2002-07-27"
+        48: "2005-09-17"
+        49: "2008-11-08"
+        50: "2011-11-26"
+        51: "2014-09-20"
+        52: "2017-09-23"
+        53: "2020-10-17"
+        54: "2023-10-14"
+  translations:
+    de: "Neuseeland"
+    en: "New Zealand"
+    eo: "Nov-Zelando"
+    fr: "Nouvelle-Zélande"
+    nl: "Nieuw-Zeeland"
+    no: "New Zealand"
