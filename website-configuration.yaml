@@ -1,5 +1,22 @@
 ---
 areaConfigurations:
+- areaCode: "mh"
+  elections:
+    national:
+      dates:
+        9: "2003-11-17"
+        10: "2007-11-19"
+        11: "2011-11-21"
+        12: "2015-11-16"
+        13: "2019-11-18"
+        14: "2023-11-20"
+  translations:
+    de: "Marshallinseln"
+    en: "Marshall Islands"
+    eo: "Marŝala Insularo"
+    fr: "Îles Marshall"
+    nl: "Marshalleilanden"
+    no: "Marshalløyene"
 - areaCode: "nz"
   csvConfiguration:
     electoralListIds:
