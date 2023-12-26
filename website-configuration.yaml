@@ -59,3 +59,20 @@ areaConfigurations:
     fr: "Nouvelle-Zélande"
     nl: "Nieuw-Zeeland"
     no: "New Zealand"
+- areaCode: "tv"
+  elections:
+    national:
+      dates:
+        11: "2002-07-25"
+        12: "2006-08-03"
+        13: "2010-09-16"
+        14: "2015-03-31"
+        15: "2019-09-09"
+        16: "2024-01-26"
+  translations:
+    de: "Tuvalu"
+    en: "Tuvalu"
+    eo: "Tuvalo"
+    fr: "Tuvalu"
+    nl: "Tuvalu"
+    no: "Tuvalu"
