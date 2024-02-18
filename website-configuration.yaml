@@ -1,5 +1,31 @@
 ---
 areaConfigurations:
+- areaCode: "au"
+  csvConfiguration:
+    electoralListIds:
+    - "AU001"
+    - "AU002"
+    - "AU003"
+    - "AU004"
+  elections:
+    national:
+      dates:
+        44: "2001-11-10"
+        45: "2004-10-09"
+        46: "2007-11-24"
+        47: "2010-08-21"
+        48: "2013-09-07"
+        49: "2016-07-02"
+        50: "2019-05-18"
+        51: "2022-05-21"
+        52: "≤2025-09-27"
+  translations:
+    de: "Australien"
+    en: "Australia"
+    eo: "Aŭstralio"
+    fr: "Australie"
+    nl: "Australië"
+    no: "Australia"
 - areaCode: "mh"
   elections:
     national:
