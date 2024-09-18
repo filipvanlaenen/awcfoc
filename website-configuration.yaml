@@ -7,6 +7,10 @@ areaConfigurations:
     - "AU002"
     - "AU003"
     - "AU004"
+    - "AU002+AU004"
+    - "AU005"
+    - "AU006"
+    - "AU007"
   elections:
     national:
       dates:
@@ -67,6 +71,7 @@ areaConfigurations:
     - "NZ018"
     - "NZ019"
     - "NZ020"
+    - "NZ021"
   elections:
     national:
       dates:
