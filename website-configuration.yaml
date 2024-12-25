@@ -107,3 +107,23 @@ areaConfigurations:
     fr: "Tuvalu"
     nl: "Tuvalu"
     no: "Tuvalu"
+- areaCode: "vu"
+  elections:
+    national:
+      dates:
+        11: "2002-05-02"
+        12: "2004-07-06"
+        13: "2008-09-02"
+        14: "2012-10-31"
+        15: "2016-01-22"
+#        16: "2020-03-19/2020-03-20"
+        16: "2020-03-20"
+        17: "2022-10-13"
+        18: "2025-01-16"
+  translations:
+    de: "Vanuatu"
+    en: "Vanuatu"
+    eo: "Vanuatuo"
+    fr: "Vanuatu"
+    nl: "Vanuatu"
+    no: "Vanuatu"
