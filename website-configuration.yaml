@@ -1,4 +1,6 @@
 ---
+id: AWCFOC
+name: Oceania
 areaConfigurations:
 - areaCode: "au"
   csvConfiguration:
