@@ -5,14 +5,14 @@ areaConfigurations:
 - areaCode: "au"
   csvConfiguration:
     electoralListIds:
-    - "AU001"
-    - "AU002"
-    - "AU003"
-    - "AU004"
-    - "AU002+AU004"
-    - "AU005"
-    - "AU006"
-    - "AU007"
+    - "AU190101"
+    - "AU194401"
+    - "AU199201"
+    - "AU192001"
+    - "AU194401+AU192001"
+    - "AU199701"
+    - "AU201301"
+    - "AU201701"
   elections:
     national:
       dates:
