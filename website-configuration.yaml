@@ -13,6 +13,7 @@ areaConfigurations:
     - "AU199701"
     - "AU201301"
     - "AU201701"
+    - "AU202101"
   elections:
     national:
       dates:
