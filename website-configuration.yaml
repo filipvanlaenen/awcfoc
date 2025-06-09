@@ -160,6 +160,30 @@ areaConfigurations:
     fr: "Vanuatu"
     nl: "Vanuatu"
     no: "Vanuatu"
+- areaCode: "ws"
+  csvConfiguration:
+    electoralListIds:
+    - "WS200301"
+    - "WS197901"
+    - "WS200501"
+    - "WS200601"
+    - "WS200602"
+  elections:
+    national:
+      dates:
+        26: "2001-03-02"
+        27: "2006-03-31"
+        28: "2011-03-04"
+        29: "2016-03-04"
+        30: "2021-04-09"
+        31: "2025-08-29"
+  translations:
+    de: "Samoa"
+    en: "Samoa"
+    eo: "Samoo"
+    fr: "Samoa"
+    nl: "Samoa"
+    no: "Samoa"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
