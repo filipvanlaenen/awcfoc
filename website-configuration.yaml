@@ -121,6 +121,26 @@ areaConfigurations:
     fr: "Nouvelle-Zélande"
     nl: "Nieuw-Zeeland"
     no: "New Zealand"
+- areaCode: "to"
+  elections:
+    national:
+      dates:
+        38: "2002-03-07"
+        39: "2005-03-17"
+#        40: "2008-04-23/2008-04-24"
+        40: "2008-04-24"
+        41: "2010-11-26"
+        42: "2014-11-27"
+        43: "2017-11-16"
+        44: "2021-11-18"
+        45: "2025-11-20"
+  translations:
+    de: "Tonga"
+    en: "Tonga"
+    eo: "Tongo"
+    fr: "Tonga"
+    nl: "Tonga"
+    no: "Tonga"
 - areaCode: "tv"
   elections:
     national:
