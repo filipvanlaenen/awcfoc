@@ -77,6 +77,29 @@ areaConfigurations:
     fr: "Îles Marshall"
     nl: "Marshalleilanden"
     no: "Marshalløyene"
+- areaCode: "nr"
+  elections:
+    national:
+      dates:
+        20: "2000-04-08"
+        21: "2003-05-03"
+        22: "2004-10-23"
+        23: "2007-08-25"
+        24: "2008-04-26"
+        25: "2010-04-24"
+        26: "2010-06-19"
+        27: "2013-06-08"
+        28: "2016-07-09"
+        29: "2019-08-24"
+        30: "2022-09-24"
+        31: "2025-10-11"
+  translations:
+    de: "Nauru"
+    en: "Nauru"
+    eo: "Nauro"
+    fr: "Nauru"
+    nl: "Nauru"
+    no: "Nauru"
 - areaCode: "nz"
   csvConfiguration:
     electoralListIds:
