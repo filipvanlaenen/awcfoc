@@ -125,6 +125,7 @@ areaConfigurations:
     - "NZ201103"
     - "NZ202301"
     - "NZ201501"
+    - "NZ202201"
   elections:
     national:
       dates:
