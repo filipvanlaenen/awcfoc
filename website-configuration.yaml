@@ -105,6 +105,26 @@ areaConfigurations:
     fr: "Nauru"
     nl: "Nauru"
     no: "Nauru"
+- areaCode: "nu"
+  elections:
+    national:
+      dates:
+        15: "2000-03-21"
+        16: "2005-04-30"
+        17: "2008-06-07"
+        18: "2011-05-07"
+        19: "2014-04-12"
+        20: "2017-05-06"
+        21: "2020-05-30"
+        22: "2023-04-29"
+        23: "2026-05-02"
+  translations:
+    de: "Niue"
+    en: "Niue"
+    eo: "Niuo"
+    fr: "Niue"
+    nl: "Niue"
+    no: "Niue"    
 - areaCode: "nz"
   csvConfiguration:
     electoralListIds:
