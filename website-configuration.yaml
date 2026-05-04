@@ -132,6 +132,7 @@ areaConfigurations:
     - "2020-05-30"
     - "2023-04-29"
     - "2026-05-02"
+    - "≤2029-05"
     properNames:
       niu: "Fono Ekepule"
     translatedNames:
