@@ -39,6 +39,10 @@ areaConfigurations:
     nl: "Australië"
     no: "Australia"
 - areaCode: "ck"
+  csvConfiguration:
+    electoralListIds:
+    - "CK197101"
+    - "CK196401"
   electedBodies:
   - id: "par"
     electionDates:
