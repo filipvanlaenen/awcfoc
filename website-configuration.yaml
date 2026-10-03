@@ -18,6 +18,7 @@ areaConfigurations:
     - "AU202501"
     - "AU192001+AU194401+AU200801"
     - "AU202601"
+    - "AU202602"
   elections:
     national:
       dates:
@@ -65,6 +66,7 @@ areaConfigurations:
     - "2018-06-14"
     - "2022-08-01"
     - "2026-08-12"
+    - "≤2030-08"
     properNames:
       en: "Parliament"
       rar: "Te Marae Akarau Vānanga"
