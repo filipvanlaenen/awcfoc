@@ -340,6 +340,7 @@ areaConfigurations:
     - "2020-10-17"
     - "2023-10-14"
     - "2026-11-07"
+    - "≤2029-11"
     properNames:
       en: "House of Representatives"
       mi: "Whare o Raro"
